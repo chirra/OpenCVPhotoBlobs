@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCVTest", "OpenCVTest\OpenCVTest.csproj", "{6BA82400-2EA4-4211-A578-DD6F6F997009}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planner", "Planner\Planner.csproj", "{F6380881-B461-4784-B596-5000141ADC0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,14 @@ Global
 		{6BA82400-2EA4-4211-A578-DD6F6F997009}.Release|x64.Build.0 = Release|x64
 		{6BA82400-2EA4-4211-A578-DD6F6F997009}.Release|x86.ActiveCfg = Release|x86
 		{6BA82400-2EA4-4211-A578-DD6F6F997009}.Release|x86.Build.0 = Release|x86
+		{F6380881-B461-4784-B596-5000141ADC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6380881-B461-4784-B596-5000141ADC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6380881-B461-4784-B596-5000141ADC0A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F6380881-B461-4784-B596-5000141ADC0A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F6380881-B461-4784-B596-5000141ADC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6380881-B461-4784-B596-5000141ADC0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6380881-B461-4784-B596-5000141ADC0A}.Release|x64.ActiveCfg = Release|Any CPU
+		{F6380881-B461-4784-B596-5000141ADC0A}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
